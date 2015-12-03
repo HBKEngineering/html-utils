@@ -1,0 +1,27 @@
+{
+  "name": "html-utils",
+  "version": "1.0.0",
+  "homepage": "https://github.com/HBKEngineering/html-utils",
+  "authors": [
+    "HBK Engineering, LLC <apps@hbkengineering.com>"
+  ],
+  "description": "Some HTML utility functions.",
+  "main": "lib/html-utils.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "underscore": "~1.8.3"
+  }
+}

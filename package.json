@@ -1,0 +1,23 @@
+{
+  "name": "html-utils",
+  "version": "1.0.0",
+  "description": "Some HTML utility functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HBKEngineering/html-utils.git"
+  },
+  "author": "HBK Engineering, LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HBKEngineering/html-utils/issues"
+  },
+  "homepage": "https://github.com/HBKEngineering/html-utils",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "underscore": "^1.8.3"
+  }
+}
