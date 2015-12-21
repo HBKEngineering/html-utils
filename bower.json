@@ -23,5 +23,8 @@
   "dependencies": {
     "jquery": "~2.1.4",
     "underscore": "~1.8.3"
+  },
+  "devDependencies": {
+    "backbone": "1.1.2"
   }
 }
